@@ -1,0 +1,3 @@
+C:\Users\T-Gamer\Documents\ETEC\DS\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Documents\ETEC\DS\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\ETEC\DS\FigurasGeometricas\FigurasGeometricas\obj\x86\Debug\FigurasGeometricas.csproj.SuggestedBindingRedirects.cache
